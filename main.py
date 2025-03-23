@@ -1,11 +1,12 @@
 import time
 import requests
 
-url = "https://dmbot-lhr9.onrender.com"
+url = "https://dmbot-ms86.onrender.com"
 
 while True:
     try:
-        requests.get(url)
+        response = requests.get(url)
+        print(response)
     except:
         pass  # Ignore all errors
     time.sleep(5)
