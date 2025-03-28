@@ -1,7 +1,7 @@
 import time
 import requests
 
-url = "https://dmbot-ms86.onrender.com"
+url = "https://apis-3kns.onrender.com/?product_id=3"
 
 while True:
     try:
