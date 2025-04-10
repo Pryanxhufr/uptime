@@ -9,4 +9,4 @@ while True:
         print(response)
     except:
         pass  # Ignore all errors
-    time.sleep(10)
+    time.sleep(40)
