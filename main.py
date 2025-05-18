@@ -1,7 +1,7 @@
 import time
 import requests
 
-url1 = "https://api-fjm4.onrender.com"
+url1 = "https://api-fjm4.onrender.com/"
 url2 = "https://imgbot-3y9h.onrender.com"
 
 while True:
